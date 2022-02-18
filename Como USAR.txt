@@ -1,0 +1,7 @@
+1 - Baixar o XAMP
+2 - Criar Banco com o nome: gestaofinanceira
+3 - Importa o Banco de Dados
+4 - Acessar Software...
+
+Login: Admin
+Senha: 1234

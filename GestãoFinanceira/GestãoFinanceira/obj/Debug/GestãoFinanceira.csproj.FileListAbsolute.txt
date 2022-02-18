@@ -1,0 +1,10 @@
+C:\Users\André Canh\Desktop\GestãoFinanceira\GestãoFinanceira\bin\Debug\GestãoFinanceira.exe.config
+C:\Users\André Canh\Desktop\GestãoFinanceira\GestãoFinanceira\bin\Debug\GestãoFinanceira.exe
+C:\Users\André Canh\Desktop\GestãoFinanceira\GestãoFinanceira\bin\Debug\GestãoFinanceira.pdb
+C:\Users\André Canh\Desktop\GestãoFinanceira\GestãoFinanceira\obj\Debug\GestãoFinanceira.csprojAssemblyReference.cache
+C:\Users\André Canh\Desktop\GestãoFinanceira\GestãoFinanceira\obj\Debug\GestãoFinanceira.Form1.resources
+C:\Users\André Canh\Desktop\GestãoFinanceira\GestãoFinanceira\obj\Debug\GestãoFinanceira.Properties.Resources.resources
+C:\Users\André Canh\Desktop\GestãoFinanceira\GestãoFinanceira\obj\Debug\GestãoFinanceira.csproj.GenerateResource.cache
+C:\Users\André Canh\Desktop\GestãoFinanceira\GestãoFinanceira\obj\Debug\GestãoFinanceira.csproj.CoreCompileInputs.cache
+C:\Users\André Canh\Desktop\GestãoFinanceira\GestãoFinanceira\obj\Debug\GestãoFinanceira.exe
+C:\Users\André Canh\Desktop\GestãoFinanceira\GestãoFinanceira\obj\Debug\GestãoFinanceira.pdb
